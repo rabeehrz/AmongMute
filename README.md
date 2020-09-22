@@ -4,7 +4,9 @@ A simple discord bot that mutes everyone in current voice channel.
 
 Feel free to contribute and stuff.
 
-I'll try to host the bot soon.
+[Add to Discord](https://discord.com/api/oauth2/authorize?client_id=757861746265292840&permissions=4194304&scope=bot)
+
+Create a new text channel called `amongmute` and then type /tm to toggle mute and unmute in voice channel.
 
 ## Instructions
 
