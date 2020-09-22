@@ -8,7 +8,9 @@ Feel free to contribute and stuff.
 
 Create a new text channel called `amongmute` and then type /tm to toggle mute and unmute in voice channel.
 
-## Instructions
+##### NOTE: I can't guarantee 100% uptime of the bot. Try to follow the instruction below and set up your own bot.
+
+## Instructions for setting up your own bot
 
 - Make sure you have Node.js installed.
 - Create a new bot in Discord Developer Dashboard with Mute permissions.
