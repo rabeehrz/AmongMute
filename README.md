@@ -8,6 +8,8 @@ Feel free to contribute and stuff.
 
 Create a new text channel called `amongmute` and then type /tm to toggle mute and unmute in voice channel.
 
+Also try /pong for pinging.
+
 ##### NOTE: I can't guarantee 100% uptime of the bot. Try to follow the instruction below and set up your own bot.
 
 ## Instructions for setting up your own bot
