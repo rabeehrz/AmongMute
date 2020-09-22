@@ -14,6 +14,8 @@ Also try /pong for pinging.
 
 ## Instructions for setting up your own bot
 
+Read this to get your token. This is better: https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js
+
 - Make sure you have Node.js installed.
 - Create a new bot in Discord Developer Dashboard with Mute permissions.
 - Copy the bot token and add the bot in your discord.
